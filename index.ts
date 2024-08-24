@@ -1,3 +1,2 @@
-export type Test = {
-    test: string;
-}
+export * from "./api.ts";
+export * from "./common.ts";
