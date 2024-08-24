@@ -1,0 +1,16 @@
+{
+  "name": "na-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marat-khas/na-types.git"
+  },
+  "author": "Marat Khas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marat-khas/na-types/issues"
+  },
+  "homepage": "https://github.com/marat-khas/na-types#readme"
+}
